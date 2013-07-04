@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'emily_lime_standardregular';
+    src: url('/media/fonts/emily_lime_standard-webfont.eot');
+    src: url('/media/fonts/emily_lime_standard-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/media/fonts/emily_lime_standard-webfont.woff') format('woff'),
+         url('/media/fonts/emily_lime_standard-webfont.ttf') format('truetype'),
+         url('/media/fonts/emily_lime_standard-webfont.svg#emily_lime_standardregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* fonts */
+/* first for IE 4–8 */
+@font-face {
+	font-family: ScalaSansScWebProScWebPro;
+	src: url('/media/fonts/ScalaSansScWebPro.eot');
+}
+
+/* then for WOFF-capable browsers */
+@font-face {
+	font-family: ScalaSansScWebProScWebPro;
+	src: url("/media/fonts/ScalaSansScWebPro.woff") format("woff");
+}
+
+/* first for IE 4–8 */
+@font-face {
+	font-family: ScalaSansScWebProWebPro;
+	src: url('/media/fonts/ScalaSansWebPro.eot');
+}
+
+/* then for WOFF-capable browsers */
+@font-face {
+	font-family: ScalaSansScWebProWebPro;
+	src: url("/media/fonts/ScalaSansWebPro.woff") format("woff");
+}
+
+
+
+#splash{
+	background:url("splash.png") no-repeat;
+	height:650px;
+	position:relative;
+}
+
+#email{
+	position: absolute;
+	display: block;
+	top: 310px;
+	left: 500px;
+	height: 25px;
+	width: 264px;
+}
+
+
+
+
+a{
+	color:#fff;
+	text-decoration:none;
+}
+
+body{
+/*	background:url('woodsplash.png') repeat-x #16afbb;*/
+	color:#fff;
+	background:#16afbb;
+	font-family: 'ScalaSansScWebProWebPro', 'Lucida Grande', Arial, Helvetica, sans-serif;
+}
+
+#wrap{
+	width:904px;
+	margin: 0 auto;
+	margin-bottom:30px;
+}
+
+#header{
+	padding-top:50px;
+	height:112px;
+	position:relative;
+	margin-bottom:35px;
+}
+
+#bookit{
+	position:absolute;
+	right:0;
+	bottom:50px;
+}
+
+	#bookit img{
+		display:block;
+	}
+
+#logo{
+	
+}
+
+#nav{
+	position:absolute;
+	right:0;
+	bottom:0;
+	padding: 8px 0;
+	border-top:2px solid #26797b;
+	border-bottom:2px solid #26797b;
+}
+
+#nav li{
+	float:left;
+	list-style:none;
+	color:#fff;	
+	padding:0 20px;
+}
+
+#nav li.first{
+	padding-left:5px;
+}
+
+#nav li.last{
+	padding-right:5px;	
+}
+
+#content{
+
+}
+
+#homelist li{
+	list-style: none;
+	width: 297px;
+	margin-right: 6px;
+	float: left;
+	overflow: hidden;
+}
+
+#homelist li a{
+	font-family:'emily_lime_standardregular';
+}
+
+#homelist li div{
+	background:url('wood.png');
+	height:63px;	
+	line-height:63px;
+	text-align:center;
+	font-size:30px;
+	overflow:hidden;
+	color:#ffe44c;
+}
+
+#viles{
+	float:left;
+	margin-right:45px;
+}
+
+#textcontent{
+	padding-top:50px;
+}
+
+#textcontent h1{
+	font-size:30px;
+}
+
+#textcontent li{
+	list-style:none;
+	margin-bottom:20px;
+}
+
+
+#footer{
+	text-align:center;
+	width:904px;
+	margin:0 auto;
+	border-top:2px solid #26797b;
+	height:55px;
+	line-height:55px;
+	color:#fff;
+	clear:both;
+	font-size:13px;
+}
+
+#social{
+	display:inline-block;
+	height:26px;
+}
+
+#social li{
+	float:left;
+	margin: 0 3px 0 5px;
+	list-style:none;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+
+#homelist li.last{
+	margin-right:0;
+	padding-right:0;
+}
+
+strong{
+	text-decoration:underline;
+}
