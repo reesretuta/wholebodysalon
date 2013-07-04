@@ -11,5 +11,4 @@
 		<li>-  Exclusive scents of Hugo Naturals vegan and cruetly-free body care</li>
 		<li>-  Licensed cosmetologists</li>
 	</ul>
-	
 </div>
