@@ -15,7 +15,7 @@
 	<meta name="keywords" content="">
 	<link rel="stylesheet" href="/media/reset.css?v=1">
 	<link rel="stylesheet" href="/media/style.css?v=1">
-		
+	<link rel="stylesheet" href="/media/nivo-slider/nivo-slider.css?v=1">
 	
 	<link rel="shortcut icon" href="/media/images/favicon.ico">
 	<script type="text/javascript" src="/media/js/libs/modernizr-1.7.min.js"></script>
@@ -30,6 +30,9 @@
 			<a id="bookit" href="http://www.secure-booker.com/wholefoods/MakeAppointment/Search.aspx"><img src="/media/clickforappt.png" target="_blank"/></a>
 			<ul id="nav">
 				<li class="first"><a href="/main/about">ABOUT</a></li>
+				<li class="first"><a href="/main/sanitation">SANITATION PRACTICES</a></li>
+				<li class="first"><a href="/main/products">PRODUCTS</a></li>
+				<li class="first"><a href="/main/partypackages">PARTY PACKAGES</a></li>
 				<li><a href="http://www.secure-booker.com/wholefoods/Services/Services.aspx" target="_blank">SERVICES</a></li>
 				<li><a href="/main/contact">CONTACT</a></li>
 				<li class="last"><a href="http://www.secure-booker.com/wholefoods/MakeAppointment/Search.aspx">APPOINTMENTS</a></li>
@@ -56,9 +59,10 @@
 	</div>
 	<!-- main content wrapper end -->
 
-	<script type="text/javascript" src="/media/js/libs/jquery-1.6.2.js"></script>
+	<script type="text/javascript" src="/media/jquery.js"></script>
 	<script type="text/javascript" src="/media/js/plugins.js"></script>		
 	<script type="text/javascript" src="/media/js/site.js"></script>
+	<script src="/media/nivo-slider/jquery.nivo.slider.pack.js" type="text/javascript" charset="utf-8"></script>
 	
 </body>
 </html>

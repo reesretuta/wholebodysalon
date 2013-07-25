@@ -1,3 +1,13 @@
+<div id="slider-wrapper">
+
+    <div id="slider" class="nivoSlider">
+        <img src="/media/homegallery/1.png" alt="" />
+        <img src="/media/homegallery/2.png" alt="" />
+        <img src="/media/homegallery/3.png" alt="" />
+        <img src="/media/homegallery/4.png" alt="" />
+    </div>
+	<span class="photocredit">credit: Victoria Costello</span>	
+</div>
 <ul id="homelist">
 	<li>
 		<a href="http://www.secure-booker.com/wholefoods/MakeAppointment/Search.aspx" target="_blank">

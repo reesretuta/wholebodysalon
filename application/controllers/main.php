@@ -46,6 +46,21 @@ class Main extends CI_Controller {
 		$this->load->view('shell',$data);
 	}
 	
+	public function sanitation(){
+		$data['content'] = $this->load->view('sanitation',false,true);
+		$this->load->view('shell',$data);
+	}
+	
+	public function partypackages(){
+		$data['content'] = $this->load->view('partypackages',false,true);
+		$this->load->view('shell',$data);
+	}
+	
+	public function products(){
+		$data['content'] = $this->load->view('products',false,true);
+		$this->load->view('shell',$data);
+	}
+	
 	public function email(){
 		$this->load->database();
 		$data = array('email' => $_GET['email']);
