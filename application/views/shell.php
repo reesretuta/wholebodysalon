@@ -27,7 +27,7 @@
 	<div id="wrap">
 		<div id="header">
 			<a id="logo" href="/"><img src="/media/logo.png" /></a>
-			<a id="bookit" href="http://www.secure-booker.com/wholefoods/MakeAppointment/Search.aspx"><img src="/media/clickforappt.png" target="_blank"/></a>
+			<a id="bookit" href="https://es.salontranscripts.com/524de2370002931b0258640a/"><img src="/media/clickforappt.png" target="_blank"/></a>
 			<ul id="nav">
 				<li class="first"><a href="/main/about">ABOUT</a></li>
 				<li class="first"><a href="/main/sanitation">SANITATION PRACTICES</a></li>
@@ -35,7 +35,7 @@
 				<li class="first"><a href="/main/partypackages">PARTY PACKAGES</a></li>
 				<li><a href="http://www.secure-booker.com/wholefoods/Services/Services.aspx" target="_blank">SERVICES</a></li>
 				<li><a href="/main/contact">CONTACT</a></li>
-				<li class="last"><a href="http://www.secure-booker.com/wholefoods/MakeAppointment/Search.aspx">APPOINTMENTS</a></li>
+				<li class="last"><a href="https://es.salontranscripts.com/524de2370002931b0258640a/">APPOINTMENTS</a></li>
 			</ul>
 
 		</div>
