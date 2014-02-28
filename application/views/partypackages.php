@@ -13,6 +13,5 @@
 	
 	
 	
-	<p>Click the link to check out appetizer options: <a href="http://shop.wholefoodsmarket.com/store/Appetizers-C1377.aspx" target="_blank">http://shop.wholefoodsmarket.com/store/Appetizers-C1377.aspx
-</a></p>
+	<p><a href="http://shop.wholefoodsmarket.com/store/Appetizers-C1377.aspx" target="_blank">Click the link to check out appetizer options</a></p>
 </div>

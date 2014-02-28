@@ -33,7 +33,7 @@
 				<li class="first"><a href="/main/sanitation">SANITATION PRACTICES</a></li>
 				<li class="first"><a href="/main/products">PRODUCTS</a></li>
 				<li class="first"><a href="/main/partypackages">PARTY PACKAGES</a></li>
-				<li><a href="http://www.secure-booker.com/wholefoods/Services/Services.aspx" target="_blank">SERVICES</a></li>
+				<li><a href="https://es.salontranscripts.com/524de2370002931b0258640a/" target="_blank">SERVICES</a></li>
 				<li><a href="/main/contact">CONTACT</a></li>
 				<li class="last"><a href="https://es.salontranscripts.com/524de2370002931b0258640a/">APPOINTMENTS</a></li>
 			</ul>
@@ -46,11 +46,14 @@
 	<div id="footer">
 		Whole Foods Market - The Salon at Whole Body - 1658 South Bascom Ave, Campbell, CA 95008   •   408.371.5000   •   Be the first to know
 		<ul id="social">
-			<li><a href="http://www.facebook.com/wfmcampbell">
+			<li><a target="_blank" href="http://www.facebook.com/wfmcampbell">
 				<img src="/media/fb.png" />
 			</a></li>
-			<li><a href="http://www.twitter.com/wfmnorcal">
+			<li><a target="_blank" href="http://www.twitter.com/wfmnorcal">
 				<img src="/media/twitter.png" />
+			</a></li>
+			<li><a target="_blank" href="http://www.yelp.com/biz/the-salon-by-whole-body-campbell#query:salon%20at%20whole%20body">
+				<img src="/media/yelp.png" />
 			</a></li>
 			<li><a href="/">
 				<img src="/media/home.png" />
