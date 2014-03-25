@@ -60,6 +60,11 @@ class Main extends CI_Controller {
 		$data['content'] = $this->load->view('products',false,true);
 		$this->load->view('shell',$data);
 	}
+  
+	public function appointments(){
+		$data['content'] = $this->load->view('appointments',false,true);
+		$this->load->view('shell',$data);
+	}
 	
 	public function email(){
 		$this->load->database();
