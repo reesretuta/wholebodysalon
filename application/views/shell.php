@@ -33,7 +33,7 @@
 				<li class="first"><a href="/main/sanitation">SANITATION PRACTICES</a></li>
 				<li class="first"><a href="/main/products">PRODUCTS</a></li>
 				<li class="first"><a href="/main/partypackages">PARTY PACKAGES</a></li>
-				<li><a href="https://es.salontranscripts.com/524de2370002931b0258640a/" target="_blank">SERVICES</a></li>
+				<li><a href="/main/services">SERVICES</a></li>
 				<li><a href="/main/contact">CONTACT</a></li>
 				<li class="last"><a href="/main/appointments">APPOINTMENTS</a></li>
 			</ul>

@@ -61,6 +61,11 @@ class Main extends CI_Controller {
 		$this->load->view('shell',$data);
 	}
   
+	public function services(){
+		$data['content'] = $this->load->view('services',false,true);
+		$this->load->view('shell',$data);
+	}
+  
 	public function appointments(){
 		$data['content'] = $this->load->view('appointments',false,true);
 		$this->load->view('shell',$data);
