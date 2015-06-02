@@ -19,7 +19,11 @@
 	
 	<link rel="shortcut icon" href="/media/images/favicon.ico">
 	<script type="text/javascript" src="/media/js/libs/modernizr-1.7.min.js"></script>
-
+	<style type="text/css">
+		#nav li{
+			padding: 0 34px;
+		}
+	</style>
 </head>
 
 
@@ -27,7 +31,7 @@
 	<div id="wrap">
 		<div id="header">
 			<a id="logo" href="/"><img src="/media/logo.png" /></a>
-			<a id="bookit" href="https://es.salontranscripts.com/524de2370002931b0258640a/"><img src="/media/clickforappt.png" target="_blank"/></a>
+			<!-- <a id="bookit" href="https://es.salontranscripts.com/524de2370002931b0258640a/"><img src="/media/clickforappt.png" target="_blank"/></a> -->
 			<ul id="nav">
 				<li class="first"><a href="/main/about">ABOUT</a></li>
 				<li class="first"><a href="/main/sanitation">SANITATION PRACTICES</a></li>
@@ -35,9 +39,19 @@
 				<li class="first"><a href="/main/partypackages">PARTY PACKAGES</a></li>
 				<li><a href="/main/services">SERVICES</a></li>
 				<li><a href="/main/contact">CONTACT</a></li>
-				<li class="last"><a href="/main/appointments">APPOINTMENTS</a></li>
+				<li class="last"><a href=""></a></li>
+				<!-- <li class="last"><a href="/main/appointments">APPOINTMENTS</a></li> -->
 			</ul>
 
+		</div>
+		<div style="border:3px solid #26797b; padding: 20px; margin: 20px; font-style:italic;">
+			We regret to inform you Whole Foods Market is shutting down salon services. We will honor existing reservations until July 3rd, but are no longer accepting new bookings.
+ 
+In place of salon services, we will offer an expanded selection of products for holistic living. The new Whole Body will be an emporium for natural skin, body and lifestyle products that perform well, look great, and are good for your body and the planet.
+ 
+Our team is proud to have been able to offer natural nail treatments at our Campbell store. We are happy to discuss this transition if you have questions. Please call 408-371-5000.
+ 
+Thanks for your business.
 		</div>
 		<div id="content" class="clearfix">
 			<?= $content ?>
